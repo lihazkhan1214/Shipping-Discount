@@ -3,7 +3,7 @@
 client_id = "fed9154ef78f0b815db882ea39854a44"
 name = "shipping-discount"
 handle = "shipping-discount-89"
-application_url = "https://thailand-correction-harassment-argument.trycloudflare.com"
+application_url = "https://intent-browse-imperial-ratios.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://thailand-correction-harassment-argument.trycloudflare.com/auth/callback",
-  "https://thailand-correction-harassment-argument.trycloudflare.com/auth/shopify/callback",
-  "https://thailand-correction-harassment-argument.trycloudflare.com/api/auth/callback"
+  "https://intent-browse-imperial-ratios.trycloudflare.com/auth/callback",
+  "https://intent-browse-imperial-ratios.trycloudflare.com/auth/shopify/callback",
+  "https://intent-browse-imperial-ratios.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
