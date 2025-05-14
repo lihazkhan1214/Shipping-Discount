@@ -3,7 +3,7 @@
 client_id = "fed9154ef78f0b815db882ea39854a44"
 name = "shipping-discount"
 handle = "shipping-discount-89"
-application_url = "https://intent-browse-imperial-ratios.trycloudflare.com"
+application_url = "https://story-cities-players-dangerous.trycloudflare.com"
 embedded = true
 
 [build]
@@ -23,13 +23,13 @@ api_version = "2025-04"
 
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
-scopes = "write_products"
+scopes = "write_products,write_discounts,read_functions"
 
 [auth]
 redirect_urls = [
-  "https://intent-browse-imperial-ratios.trycloudflare.com/auth/callback",
-  "https://intent-browse-imperial-ratios.trycloudflare.com/auth/shopify/callback",
-  "https://intent-browse-imperial-ratios.trycloudflare.com/api/auth/callback"
+  "https://story-cities-players-dangerous.trycloudflare.com/auth/callback",
+  "https://story-cities-players-dangerous.trycloudflare.com/auth/shopify/callback",
+  "https://story-cities-players-dangerous.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
